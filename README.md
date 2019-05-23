@@ -1,5 +1,8 @@
 # ten-thousand-hours
-Let's see if I can stick to the challenge of accumulating 10,000 hrs of code practice
+
+> **The premise is that: 10,000 hours is the mark of mastering something**
+
+Let's see if I can stick to the challenge of accumulating 10,000 hrs of code practice.
 
 ## Practise Log
 
