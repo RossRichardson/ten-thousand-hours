@@ -17,3 +17,7 @@ Let's see if I can stick to the challenge of accumulating 10,000 hrs of code pra
 ## Other Information
 
 Date Started: 2019-05-23
+
+## Aptitude Tests
+
+0. Let's go get the first test done soon!
