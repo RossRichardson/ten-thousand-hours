@@ -26,9 +26,9 @@ Done. 51st percentile isn't so bad for only 4 months of, relative, tinkering.
 Yikes. I'm a little shocked looking at that Java test score. Something is Going on there so I'll retake that in a month.
 Also saw I had a Git score. 231. Glorious! 
 
-* Go      151 - Proficient  (2019)
-* Java    137 - Proficient  (2017)
-* Python  204 - Expert      (2018)
+* Go      151 - Proficient  (2019)  - Time (hrs): 0
+* Java    137 - Proficient  (2017)  - Time (hrs): 0
+* Python  204 - Expert      (2018)  - Time (hrs): 0
 * Git     231 - Expert      (2018)
 
 1. 2019-06-23
