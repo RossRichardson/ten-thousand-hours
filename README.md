@@ -11,6 +11,7 @@ Let's see if I can stick to the challenge of accumulating 10,000 hrs of code pra
 | Go             | 0                | 0.25                                |
 | Java           | 0                | 8                                   |
 | Python         | 0                | 7                                   |
+| **Total**      | 0                | N/A                                 |
 
 
 ## Other Information
