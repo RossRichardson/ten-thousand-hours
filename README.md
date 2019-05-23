@@ -21,14 +21,16 @@ Date Started: 2019-05-23
 ## Aptitude Tests
 
 0. 2019-05-23
+
 Done. 51st percentile isn't do bad for only 4 months of relative tinkering.
 Yikes. I'm a little shocked looking at that Java test score. Something is Going on there so I'll retake that in a month.
 Also saw I had a Git score. 231. Glorious! 
 
-Go      151 - Proficient  (2019)
-Java    137 - Proficient  (2017)
-Python  204 - Expert      (2018)
-Git     231 - Expert      (2018)
+* Go      151 - Proficient  (2019)
+* Java    137 - Proficient  (2017)
+* Python  204 - Expert      (2018)
+* Git     231 - Expert      (2018)
 
 1. 2019-06-23
+
 Scheduled Go and Java Assessment
