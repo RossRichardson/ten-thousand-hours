@@ -27,7 +27,9 @@ Practise is deliberate and intentional practise. Proficiency assessments don't c
 - And writing code of course!
 - Discussing concepts, syntax, idioms and the like
 
-### Update: 2019-05-28
+### Updates
+
+#### 2019-05-28
 It's been tough to grab time to practise. I haven't been logging code reviews of Go code though. So I'm going to include that in my time.
 
 ## Assessments
