@@ -1,8 +1,8 @@
 # ten-thousand-hours
 
-> **The premise is that: 10,000 hours is the mark of mastering something**
+> **The premise is that: 10,000 hours is the amount of practise required to have mastery over something**
 
-Let's see if I can stick to the challenge of accumulating 10,000 hrs of code practice.
+Let's see if I can stick to the challenge of accumulating 10,000 hours of code practice.
 
 ## Practise Log
 
@@ -14,11 +14,23 @@ Let's see if I can stick to the challenge of accumulating 10,000 hrs of code pra
 | **Total**      | 0.5              | N/A                                 |
 
 
-## Other Information
+## Some Details
 
 Date Started: 2019-05-23
 
-## Aptitude Tests
+### What is practise?
+
+Practise is deliberate and intentional practise. Proficiency assessments don't count, but some things that do are:
+- Code reviews
+- Reading tutorials or slides (video or text)
+- [The Go Playground](https://play.golang.org/)
+- And writing code of course!
+- Discussing concepts, syntax, idioms and the like
+
+### Update: 2019-05-28
+It's been tough to grab time to practise. I haven't been logging code reviews of Go code though. So I'm going to include that in my time.
+
+## Assessments
 
 0. 2019-05-23
 
