@@ -8,10 +8,10 @@ Let's see if I can stick to the challenge of accumulating 10,000 hours of code p
 
 | Language       | Time (hours)     | Years Experience (before challenge) | Pluralsight Skill Assessment Score |
 |----------------|------------------|-------------------------------------|------------------------------------|
-| Go             | 0.75             | 0.25                                | 151 - Proficient (2019)
-| Java           | 0                | 8                                   | 137 - Proficient (2017)
+| Go             | 3.75             | 0.25                                | 151 - Proficient (2019)
+| Java           | 6                | 8                                   | 137 - Proficient (2017)
 | Python         | 0                | 7                                   | 204 - Expert     (2018)
-| **Total**      | 0.75             | N/A                                 |
+| **Total**      | 9.75             | N/A                                 |
 
 
 ## Some Details
@@ -24,7 +24,7 @@ Status: Ongoing
 Practise is deliberate and intentional practise. Proficiency assessments don't count, but some things that do are:
 - Code reviews
 - Reading tutorials or slides (video or text)
-- [The Go Playground](https://play.golang.org/)
+- Interactives - like [The Go Playground](https://play.golang.org/)
 - And writing code of course!
 - Discussing concepts, syntax, idioms and the like
 
