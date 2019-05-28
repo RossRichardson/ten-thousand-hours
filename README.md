@@ -17,6 +17,7 @@ Let's see if I can stick to the challenge of accumulating 10,000 hours of code p
 ## Some Details
 
 Date Started: 2019-05-23
+Status: Ongoing
 
 ### What is practise?
 
@@ -34,7 +35,7 @@ It's been tough to grab time to practise. I haven't been logging code reviews of
 
 ## Assessments
 
-0. 2019-05-23
+#### 2019-05-23
 
 Done. 51st percentile isn't so bad for only 4 months of, relative, tinkering.
 Yikes. I'm a little shocked looking at that Java test score. Something is Going on there so I'll retake that in a month.
@@ -45,6 +46,6 @@ Also saw I had a Git score. 231. Glorious!
 * Python  204 - Expert      (2018)  - Time (hrs): 0
 * Git     231 - Expert      (2018)
 
-1. 2019-06-23
+#### 2019-06-23
 
 Scheduled Go and Java Assessment
