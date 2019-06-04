@@ -40,6 +40,7 @@ It's been tough to grab time to practise. I haven't been logging code reviews of
 
 
 ## Assessments
+Assessments are done with Pluralsight although I'm certainly open to suggestions for better methods or services to use.
 
 #### 2019-06-23
 
