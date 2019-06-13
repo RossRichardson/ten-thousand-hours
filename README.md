@@ -9,9 +9,9 @@ Let's see if I can stick to the challenge of accumulating 10,000 hours of code p
 | Language       | Time (hours)     | Years Experience (before challenge) | Pluralsight Skill Assessment Score |
 |----------------|------------------|-------------------------------------|------------------------------------|
 | Go             | 4.5              | 0.25                                | 151 - Proficient (2019)
-| Java           | 12               | 8                                   | 137 - Proficient (2017)
+| Java           | 15               | 8                                   | 137 - Proficient (2017)
 | Python         | 0                | 7                                   | 204 - Expert     (2018)
-| **Total**      | 16.5             | N/A                                 |
+| **Total**      | 19.5             | N/A                                 |
 
 
 ## Some Details
